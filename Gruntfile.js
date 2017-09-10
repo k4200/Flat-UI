@@ -79,7 +79,7 @@ module.exports = function (grunt) {
           '<%= bower_conf.directory %>/bootstrap-switch/dist/js/bootstrap-switch.js',
           '<%= bower_conf.directory %>/bootstrap-tagsinput/dist/bootstrap-tagsinput.js',
           // '<%= bower_conf.directory %>/holderjs/holder.js',
-          '<%= bower_conf.directory %>/typeahead.js/dist/typeahead.bundle.js',
+          '<%= bower_conf.directory %>/corejs-typeahead/dist/typeahead.bundle.js',
           '<%= bower_conf.directory %>/select2/select2.js',
 
           'js/*.js',
